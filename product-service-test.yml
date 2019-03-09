@@ -13,4 +13,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 env: test
-branch: master
+branch: dev
